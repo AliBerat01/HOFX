@@ -30,4 +30,4 @@ Botu kullanmakta özgürsünüz ama bazı kısıtlamalarımız vardır. Bunlar; 
 
 
 Verilerini sildirmek isteyenler `AliBerat#6892` ulaşabilir, eğerki şüphe duyuyorsız kullanmayın botu!                                                                                                                                                                                                                                           
-Verileriniz VDS(Sanal Makina)'da saklanmaktadır, bilgilerinizi kimselerle paylaşmayız!
+Verileriniz VDS(Sanal Makine)'de saklanmaktadır, bilgilerinizi kimselerle paylaşmayız!
