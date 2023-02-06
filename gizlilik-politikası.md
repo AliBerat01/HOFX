@@ -6,9 +6,9 @@ HOFX Bot verileri genellikle saklamaz. Sakladığı veriler "User ID, Guild ID" 
 `Ekonomi Sistemi, Botlist sistemi, Kayıt Sistemi, Moderasyon Komutları, Owner Komutları`
 
 ### Ekonomi Sistemi alınan veriler ne amaçla saklanır.
-`para` komutu, sizin paranızın ne kadar olduğunu göstermesi amacıyla. (Alınan veriler `User ID`)                                                                                                                                                                       
-`para-gönder` komutu, siz birine para gönderdiğinizde karşı tarafa para eklemek ve sizden o miktarda para siler. (Alınan veriler `User ID`)                                                                                                                                                                       
-`günlük` komutu, Her 24 saatte bir rastgele bir miktar sizin hesabınıza para ekler. (Alınan veriler `User ID`)
+`para` komutu, sizin paranızın ne kadar olduğunu göstermesi amacıyla. (Alınan veriler **User ID**)                                                                                                                                                                       
+`para-gönder` komutu, siz birine para gönderdiğinizde karşı tarafa para eklemek ve sizden o miktarda para siler. (Alınan veriler **User ID**)                                                                                                                                                                       
+`günlük` komutu, Her 24 saatte bir rastgele bir miktar sizin hesabınıza para ekler. (Alınan veriler **User ID**)
 
 
 ### Botlist Sistemi
