@@ -26,8 +26,17 @@ HOFX Bot verileri genellikle saklamaz. Sakladığı veriler "User ID, Guild ID" 
 `premium-kodoluştur` komutu, Rastgele premium kodu oluşturur. (Alınan veriler **Kod**)
 
 ### Sunucumuzda Tutulan Veriler
-`sunucu-log` Botun sunucuya eklenmesini ve atılmasını gösteren sistemdir. (Alınan veriler **Sunucu İsmi, Kullanıcı ID(Sunucu Sahibi), Sunucu Sayısı**)
-Örnek SS'ler: [Eklendim & Atıldım](https://cdn.discordapp.com/attachments/1048349544276054016/1072148475564798032/image.png)
+`sunucu-log` Botun sunucuya eklenmesini ve atılmasını gösteren sistemdir. (Alınan veriler **Sunucu İsmi, Kullanıcı ID(Sunucu Sahibi), Sunucu'daki Üye Sayısı**)
+                                                                                                                                                                       
+Örnek SS: [Eklendim & Atıldım](https://cdn.discordapp.com/attachments/1048349544276054016/1072148475564798032/image.png)
+                                                                                                                                                                       
+`hata-log` **/hata-bildir** komutunu kullandığınızda bize gelen bildiriler. (Alınan veriler **User ID(Bildiren), User Name(Bildiren), Error Message**)
+                                                                                                                                                                       
+Örnek SS: [Hata Log](https://cdn.discordapp.com/attachments/1048349544276054016/1072149287976325151/image.png)
+
+`öneri-log` **/öneri** komutunu kullandığınızda bize gelen bildiriler. (Alınan veriler **User ID(Bildiren), User Name(Bildiren), Error Message**)
+                                                                                                                                                                       
+Örnek SS: [Öneri Log](https://cdn.discordapp.com/attachments/1048349544276054016/1072150088459239434/image.png)
 
 # Kullanıcı Hakları (Botu Kullananların)
 Botu kullanmakta özgürsünüz ama bazı kısıtlamalarımız vardır. Bunlar; Botta hata, sorun vb. şeyler varsa bize bildirmeli, botta eksikler varsa bize ulaşıp bildirebilirsiniz. Son olarak botta açık varsa bunu değerlendirmeyin veya kimselere söylemeyin aksi takdir karalisteye alınırsınız ve adli işlemler başlatılır, bize ulaşınız.
