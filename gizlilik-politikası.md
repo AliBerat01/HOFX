@@ -12,22 +12,25 @@ HOFX Bot verileri genellikle saklamaz. Sakladığı veriler "User ID, Guild ID" 
 
 
 ### Botlist Sistemi
-`botlist-ayarla <yetkili_rol> <bot_log> <bot_ekle>` komutu, sunucunuzda botlist sistemini aktif eder. (Alınan veriler `Guild ID, Channel ID(Bot Log, Bot Ekle)`)                                                                                                                                                                               
-`botlist-mesajgönder` komutu, Eğerki botun attığı bot ekleme mesajı silinirse kullanılır. (Alınan veriler `Guild ID`)                                                                                                                                                                                                                           
-`bot-ekle (Buton, Modal)` komutu, Botunuzun bilgilerini girerek botu sisteme eklersiniz. (Alınan veriler `Guild ID, User ID(Bot ID, Owner ID), Bot Prefix`)
+`botlist-ayarla <yetkili_rol> <bot_log> <bot_ekle>` komutu, sunucunuzda botlist sistemini aktif eder. (Alınan veriler **Guild ID, Channel ID(Bot Log, Bot Ekle**)                                                                                                                                                                               
+`botlist-mesajgönder` komutu, Eğerki botun attığı bot ekleme mesajı silinirse kullanılır. (Alınan veriler **Guild ID**)                                                                                                                                                                                                                           
+`bot-ekle (Buton, Modal)` komutu, Botunuzun bilgilerini girerek botu sisteme eklersiniz. (Alınan veriler **Guild ID, User ID(Bot ID, Owner ID), Bot Prefix**)
 
 ### Kayıt Sistemi (Güncellemede Gelecek! YAKINDA...)
-`kayıt-mesaj-gönder` komutu, Eğerki botun attığı kayıt olma mesajı silinirse kullanılır. (Alınan veriler `Guild ID, Channel ID(Kayıt Ol kanal ID)`)                                                                                                                                                                                             
-`kayıt-ayarla <kayıt_olma_kanalı> <kayıt_esnasında_üyeye_verilecek_rol> <kayıt_esnasında_üyedem_alınacak_rol>` komutu, sunucunuzda kayıt sistemini aktif eder. (Alınan veriler `Guild ID, Channel ID(Kayıt Olma Kanalı), Rol ID(Kayıt esnansında üyeye/üyeden verilecek/alınacak rol)`)                                                                                                                                                                                                                               
-`kayıt-sıfırla` Kayıt sistemini kapatır. (Alınan veriler `Guild ID`)
+`kayıt-mesaj-gönder` komutu, Eğerki botun attığı kayıt olma mesajı silinirse kullanılır. (Alınan veriler **Guild ID, Channel ID(Kayıt Ol kanal ID)**)                                                                                                                                                                                             
+`kayıt-ayarla <kayıt_olma_kanalı> <kayıt_esnasında_üyeye_verilecek_rol> <kayıt_esnasında_üyeden_alınacak_rol>` komutu, sunucunuzda kayıt sistemini aktif eder. (Alınan veriler **Guild ID, Channel ID(Kayıt Olma Kanalı), Rol ID(Kayıt esnansında üyeye/üyeden verilecek/alınacak rol)**)                                                                                                                                                                                                                               
+`kayıt-sıfırla` Kayıt sistemini kapatır. (Alınan veriler **Guild ID**)
 
 ### Owner Komutları
-`karaliste-al | karaliste-çıkar` komutu, Bir kullanıcı ID'si girerek botun kulanmasını engeller. (Alınan veriler `User ID`)                                                                                                                                                                                                                     
-`premium-kodoluştur` komutu, Rastgele premium kodu oluşturur. (Alınan veriler `Kod`)
+`karaliste-al | karaliste-çıkar` komutu, Bir kullanıcı ID'si girerek botun kulanmasını engeller. (Alınan veriler **User ID**)                                                                                                                                                                                                                     
+`premium-kodoluştur` komutu, Rastgele premium kodu oluşturur. (Alınan veriler **Kod**)
+
+### Sunucumuzda Tutulan Veriler
+`sunucu-log` Botun sunucuya eklenmesini ve atılmasını gösteren sistemdir. (Alınan veriler **Sunucu İsmi, Kullanıcı ID(Sunucu Sahibi), Sunucu Sayısı**)
+Örnek SS'ler: [Eklendim & Atıldım](https://cdn.discordapp.com/attachments/1048349544276054016/1072148475564798032/image.png)
 
 # Kullanıcı Hakları (Botu Kullananların)
 Botu kullanmakta özgürsünüz ama bazı kısıtlamalarımız vardır. Bunlar; Botta hata, sorun vb. şeyler varsa bize bildirmeli, botta eksikler varsa bize ulaşıp bildirebilirsiniz. Son olarak botta açık varsa bunu değerlendirmeyin veya kimselere söylemeyin aksi takdir karalisteye alınırsınız ve adli işlemler başlatılır, bize ulaşınız.
-
 
 Verilerini sildirmek isteyenler `AliBerat#6892` ulaşabilir, eğerki şüphe duyuyorsız kullanmayın botu!                                                                                                                                                                                                                                           
 Verileriniz VDS(Sanal Makine)'de saklanmaktadır, bilgilerinizi kimselerle paylaşmayız!
