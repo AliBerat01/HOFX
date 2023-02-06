@@ -32,6 +32,6 @@ Botu kullanmakta özgürsünüz ama bazı kısıtlamalarımız vardır. Bunlar; 
 Verilerini sildirmek isteyenler `AliBerat#6892` ulaşabilir, eğerki şüphe duyuyorsız kullanmayın botu!                                                                                                                                                                                                                                           
 Verileriniz VDS(Sanal Makine)'de saklanmaktadır, bilgilerinizi kimselerle paylaşmayız!
 
-[Gizlilik Politikası](https://github.com/AliBerat01/HOFX//main/gizlilik-politikası.md) ve [Hizmet Şartlarını](https://github.com/AliBerat01/HOFX/main/hizmet-şartları.md) herkes okudu olarak kabul ediyoruz. Kurallarımızı öğrenmek için `AliBerat#6892` Discorddan ulaşınız.
+[Gizlilik Politikası](https://github.com/AliBerat01/HOFX/blob/main/gizlilik-politikası.md) ve [Hizmet Şartlarını](https://github.com/AliBerat01/HOFX/blob/main/hizmet-şartları.md) herkes okudu olarak kabul ediyoruz. Kurallarımızı öğrenmek için `AliBerat#6892` Discorddan ulaşınız.
 
 HOFX Bot ® AliBerat & Ayaz
